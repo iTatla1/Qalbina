@@ -1,12 +1,23 @@
-Need help with Qalbina?
+# Support – Qalbina
 
+Need help with **Qalbina**? We're here for you.
 
-🟡 Contact Support: usm.gh36@gmail.com
+---
 
+## 🟡 Contact Support
 
+📧 Email: [usm.gh36@gmail.com](mailto:usm.gh36@gmail.com)
 
-📄 Privacy Policy: https://itatla1.github.io/Qalbina/privacy-policy
+Feel free to reach out with any questions, feedback, or technical issues.
 
+---
 
+## 📄 Privacy Policy
 
-📜 Terms of Service: https://itatla1.github.io/Qalbina/terms-of-service
+[View Privacy Policy](https://itatla1.github.io/Qalbina/privacy-policy)
+
+---
+
+## 📜 Terms of Service
+
+[View Terms of Service](https://itatla1.github.io/Qalbina/terms-of-service)
